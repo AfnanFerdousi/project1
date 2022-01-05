@@ -63,3 +63,10 @@ button.details-btn:hover {
     margin-top: 60px;
     margin-bottom: 50px;
 }
+
+footer p{
+    padding: 30px;
+    text-align: center;
+    color: #333;
+    font-weight: 700;
+}
